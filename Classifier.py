@@ -1,7 +1,7 @@
 '''
--Team #7
+
 -An Online Web-Based Application for News Classification Based on Category Using Unique Bag of Words.
--Sachin Mohan Sujir, Himanshu Nirmal
+
 '''
 
 
